@@ -1,11 +1,12 @@
 {
-    "NAME":Contract Pack: Kerbal Space Station
-    "URL":
+    "NAME":"Contract Pack: Kerbal Space Station",
+    "URL": "https://github.com/severedsolo/KerbinSpaceStation/blob/master/KerbinSpaceStation.version",
+	"DOWNLOAD":"https://github.com/severedsolo/KerbinSpaceStation/releases",
     "GITHUB":
     {
         "USERNAME":severedsolo,
-        "REPOSITORY":KerbalStationContractOverhaul
-        "ALLOW_PRE_RELEASE":false,
+        "REPOSITORY":KerbinSpaceStation
+        "ALLOW_PRE_RELEASE":true,
     },
     "VERSION":
     {

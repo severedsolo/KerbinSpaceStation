@@ -14,5 +14,8 @@
 {
 "find" : "KerbinSpaceStation",
 "install_to" : "GameData/ContractPacks",
-}]
+}],
+	"resources": {
+"homepage": "http://forum.kerbalspaceprogram.com/threads/113642-WIP-Contract-Pack-Kerbin-Space-Station",
+}
 	}

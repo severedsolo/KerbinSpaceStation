@@ -6,7 +6,13 @@
     "abstract"     : "A contract pack to replace the default Squad build a Space Station missions",
     "license"      : "CC-BY-SA-3.0",
     "ksp_version"  : "0.90",
- "depends": [
+"depends": [
         { "name": "ContractConfigurator" },
-    ]
+    ],
+	
+"install" : [
+{
+"find" : "KerbinSpaceStation",
+"install_to" : "GameData/ContractPacks",
+}]
 	}

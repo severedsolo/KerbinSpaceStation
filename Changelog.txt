@@ -1,0 +1,6 @@
+New Missions:
+Evacuation
+HabModuleCupola
+
+Tweaks:
+ScienceModule no longer requires the part, just the module.

@@ -4,6 +4,3 @@ HabModuleCupola
 
 Tweaks:
 ScienceModule no longer requires the part, just the module.
-
-Fixes:
-Fixed an issue that would stop HabModule from showing up more than once.

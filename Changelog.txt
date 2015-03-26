@@ -1,9 +1,10 @@
 New Missions:
 Evacuation
-HabModuleCupola
+HabModuleCupola (micha)
 
 Tweaks:
-ScienceModule no longer requires the part, just the module.
+ScienceModule no longer requires the part, just the module. (Akira_R)
+StationCore now looks for it's own part (credit: metl)
 
 Fixes:
 Fixed an issue that would stop HabModule from showing up more than once.

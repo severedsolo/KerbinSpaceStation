@@ -1,15 +1,4 @@
-New Missions:
-Evacuation
-HabModuleCupola (micha)
-
-Tweaks:
-ScienceModule no longer requires the part, just the module. (Akira_R)
-StationCore now looks for it's own part (credit: metl)
-HabModule reverted to old version of requirement checking due to a small bug.
-
-Dependencies:
-Now requires Module Manager
-Now requires Contract Configurator 0.7.4
-
-Fixes:
-Fixed an issue that would stop HabModule from showing up more than once.
+Failsafe removed
+Removed duplicate requirements from KerbinCrewRotation
+TAC LS Support added. - First mission now resupply.
+Station Science Support added.

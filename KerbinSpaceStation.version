@@ -6,12 +6,12 @@
     {
         "USERNAME":severedsolo,
         "REPOSITORY":KerbinSpaceStation
-        "ALLOW_PRE_RELEASE":true,
+        "ALLOW_PRE_RELEASE":false,
     },
     "VERSION":
     {
-        "MAJOR":0,
-        "MINOR":2,
+        "MAJOR":1,
+        "MINOR":0,
         "PATCH":0,
         "BUILD":0
     },

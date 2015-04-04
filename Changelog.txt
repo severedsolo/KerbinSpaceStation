@@ -2,3 +2,6 @@ Failsafe reworked - thanks to Metl
 Removed duplicate requirements from KerbinCrewRotation
 TAC LS Support added. - First mission now resupply.
 Station Science Support added.
+Resupply Missions
+Science Missions
+Moved bodies into their own folder

@@ -1,2 +1,3 @@
 Mun and Minmus missions added.
 Warning note added for Science>Funds Bug
+Turned down frequency of ScienceExperimentModule due to said bug.

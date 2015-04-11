@@ -2,5 +2,4 @@ Mun and Minmus missions added.
 Warning note added for Science>Funds Bug
 Turned down frequency of ScienceExperimentModule due to said bug.
 Fixed weighting of ScienceExperimentModule
-Fixed a bug where ScienceModule would complete without actually needing a science module.
 You now have 1 Kerbin year to complete Tier 2 (formerly 150d)

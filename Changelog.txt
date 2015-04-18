@@ -1,5 +1,4 @@
-Mun and Minmus missions added.
-Warning note added for Science>Funds Bug
-Turned down frequency of ScienceExperimentModule due to said bug.
-Fixed weighting of ScienceExperimentModule
-You now have 1 Kerbin year to complete Tier 2 (formerly 150d)
+Fixed a bug that sometimes prevents CrewRotation from completing (thanks Capt Kerk)
+Tier 1 and 2 Missions merged into one single Core Mission.
+In order to maintain save compatibility with the above change, The "LKOStation, MunStation and MinmusStation" vessel definition obsoleted. Replaced by "LKOStationNEW, MunStationNEW, MinmusStationNEW"LKOStationNEW. (Old stations will have to re-run the Core Mission to get the new definition).
+Taken advantage of nested Contract Groups to stop the pack from swamping Mission Control

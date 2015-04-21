@@ -1,6 +1,2 @@
-Fixed a bug that sometimes prevents CrewRotation from completing (thanks Capt Kerk)
-Tier 1 and 2 Missions merged into one single Core Mission.
-In order to maintain save compatibility with the above change, The "LKOStation, MunStation and MinmusStation" vessel definition obsoleted. Replaced by "LKOStationNEW, MunStationNEW, MinmusStationNEW"LKOStationNEW. (Old stations will have to re-run the Core Mission to get the new definition).
-Taken advantage of nested Contract Groups to stop the pack from swamping Mission Control
-Improved compatibility with Vens Stock Revamp - the "Station Core Docking Port" will now use the mesh of that mod, if you have it installed. (Or any other mod that replaces the Clamp-O-Tron to be honest, but only tested with Stock Revamp).
-Minor bugfixes/corrections/cleanup of cfgs.
+Duna Missions added
+New 

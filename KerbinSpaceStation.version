@@ -1,36 +1,35 @@
 {
-    "NAME":"Contract Pack: Kerbal Space Station",
-    "URL": "https://github.com/severedsolo/KerbinSpaceStation/blob/master/KerbinSpaceStation.version",
-	"DOWNLOAD":"https://github.com/severedsolo/KerbinSpaceStation/releases",
-    "GITHUB":
+    "NAME"     : "Contract Pack: Kerbal Space Station",
+    "URL"      : "https://github.com/severedsolo/KerbinSpaceStation/blob/master/KerbinSpaceStation.version",
+    "DOWNLOAD" : "https://github.com/severedsolo/KerbinSpaceStation/releases",
+    "GITHUB" :
     {
-        "USERNAME":severedsolo,
-        "REPOSITORY":KerbinSpaceStation
-        "ALLOW_PRE_RELEASE":false,
+        "USERNAME" : "severedsolo",
+        "REPOSITORY" : "KerbinSpaceStation"
     },
-    "VERSION":
+    "VERSION" :
     {
-        "MAJOR":2,
-        "MINOR":0,
-        "PATCH":0,
-        "BUILD":0
+        "MAJOR" : 2,
+        "MINOR" : 0,
+        "PATCH" : 0,
+        "BUILD" : 0
     },
-    "KSP_VERSION":
+    "KSP_VERSION" :
     {
-        "MAJOR":1,
-        "MINOR":0,
-        "PATCH":2
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
     },
-    "KSP_VERSION_MIN":
+    "KSP_VERSION_MIN" :
     {
-        "MAJOR":0,
-        "MINOR":90,
-        "PATCH":0
+        "MAJOR" : 0,
+        "MINOR" : 90,
+        "PATCH" : 0
     },
-    "KSP_VERSION_MAX":
+    "KSP_VERSION_MAX" :
     {
-        "MAJOR":1,
-        "MINOR":0,
-        "PATCH":2
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
     }
 }

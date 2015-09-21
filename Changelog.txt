@@ -1,0 +1,1 @@
+Fixed duplicate Science Lab parameter on Minmus Space Station contract.

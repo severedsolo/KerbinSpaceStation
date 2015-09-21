@@ -1,1 +1,2 @@
 Fixed duplicate Science Lab parameter on Minmus Space Station contract.
+Fixed bug that would require Mun Station to orbit Minmus

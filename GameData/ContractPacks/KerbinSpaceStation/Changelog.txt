@@ -1,1 +1,0 @@
-Fixed broken parenthesis on Minmus Core Mission (thanks Dexter_D)

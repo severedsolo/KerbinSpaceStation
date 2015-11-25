@@ -1,0 +1,36 @@
+{
+    "NAME"     : "Contract Pack: Base Construction",
+    "URL"      : "https://github.com/CosmoBro/BaseConstruction/blob/master/ContractsPacks/BaseConstruction/BaseConstruction.version",
+    "DOWNLOAD" : "https://github.com/CosmoBro/BaseConstruction/releases",
+	"CHANGE_LOG_URL" : "https://github.com/CosmoBro/BaseConstruction/blob/master/Changelog.txt",
+    "GITHUB" :
+    {
+        "USERNAME" : "CosmoBro",
+        "REPOSITORY" : "BaseConstruction"
+    },
+    "VERSION" :
+    {
+        "MAJOR" : 0,
+        "MINOR" : 2,
+        "PATCH" : 3,
+        "BUILD" : 0
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 4
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 0
+    },
+    "KSP_VERSION_MAX" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 4
+    }
+}

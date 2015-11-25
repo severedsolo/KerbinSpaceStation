@@ -15,3 +15,18 @@ Outpost Crew
 Fixed bad CC handling in title.
 Cleaned up the english to make it clearer as to what the player has to do.
 
+BaseScan
+Re-wrote parameters to make it simpler (and less buggy) - functionality is basically the same.
+
+BaseRover 
+Simplified Parameters
+
+BaseCreate
+Added support for NF Electrical
+Simplified parameters
+
+BasePopulate
+Simplified Parameters (basic functionality unchanged)
+
+
+

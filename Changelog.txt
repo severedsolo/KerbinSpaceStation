@@ -1,0 +1,2 @@
+Added Strategia support (nightingale)
+Fixed issue where Evacuate would complete early in some circumstances.

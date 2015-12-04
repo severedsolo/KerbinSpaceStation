@@ -1,2 +1,3 @@
 Added Strategia support (nightingale)
 Fixed issue where Evacuate would complete early in some circumstances.
+Evacuate Mission will no longer ask you to perform an Emergency Landing on bodies without a surface (thanks CrashTestDanny)

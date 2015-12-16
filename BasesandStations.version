@@ -1,0 +1,35 @@
+{
+    "NAME"     : "Contract Pack: Bases and Stations",
+    "URL"      : "https://github.com/severedsolo/KerbinSpaceStation/blob/master/KerbinSpaceStation.version",
+    "DOWNLOAD" : "https://github.com/severedsolo/KerbinSpaceStation/releases",
+    "GITHUB" :
+    {
+        "USERNAME" : "severedsolo",
+        "REPOSITORY" : "KerbinSpaceStation"
+    },
+    "VERSION" :
+    {
+        "MAJOR" : 3,
+        "MINOR" : 0,
+        "PATCH" : 3,
+        "BUILD" : 0
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 5
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 5
+    },
+    "KSP_VERSION_MAX" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 5
+    }
+}

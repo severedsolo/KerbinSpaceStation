@@ -1,8 +1,1 @@
-Added Strategia support (nightingale)
-Fixed issue where Evacuate would complete early in specific circumstances.
-Evacuate Mission will no longer ask you to perform an Emergency Landing on bodies without a surface (thanks CrashTestDanny)
-Changed the way Maintenance Contracts check for unique vessels. This change means that KSS now requires Contract Configurator 1.9.0 or higher.
-Turned down reputation rewards on Core Mission.
-Fixed issue where a duplicate Core Mission could be generated under specific circumstances. (thanks CompB)
-Updated CrewRotation so you know what vessel you are rotating from the title.
-Fixed a problem where Evacuate wouldn't care who landed.
+Fixed validation error in Base Self-Sufficiency

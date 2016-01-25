@@ -1,1 +1,2 @@
 Fixed validation error in Base Self-Sufficiency
+Fixed a bug which would require you to land your Space Station to satisfy the evacuate mission.

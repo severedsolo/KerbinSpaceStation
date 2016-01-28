@@ -1,3 +1,4 @@
 Fixed validation error in Base Self-Sufficiency
 Fixed a bug which would require you to land your Space Station to satisfy the evacuate mission.
-Missions will no longer generate for any bases on Kerbin.
+Creation missions will no longer generate for any bases on Kerbin.
+Base Population will now do a sanity check on crew space before generating.

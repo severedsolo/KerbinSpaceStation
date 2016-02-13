@@ -1,1 +1,4 @@
 Fixed compatibility issues between bases and SCANsat (thanks Anonimous)
+Simplified and clarified parameters for BaseCommsLost (thanks rottielover)
+Turned down rewards for Base Scan mission.
+Scan mission now requires a Hi Res Altimetry scan if you have SCANsat installed. Because there are only so many ways a bug can resurface before you go "Sod it"

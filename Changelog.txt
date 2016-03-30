@@ -1,1 +1,3 @@
 Base expansions now require a new vessel (thanks garwel)
+Updated some obsolete values to match newer CC format.
+Removed random reference to a Kerbal who doesn't exist in BaseCommsLost

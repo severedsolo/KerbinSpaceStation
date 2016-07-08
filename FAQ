@@ -1,0 +1,22 @@
+# KerbinSpaceStation
+A contract pack for KSP, designed to replace the current Space Station Missions
+**FAQ**
+
+Q) Why am I not getting "Launch a Station Contracts?
+A) Do you meet the requirements? For a station contract to work you must 
+  - 1) have no stations in orbit of that planet
+  - 2 have the following unlocked: 
+    - Science Lab (station science or stock), 
+    - docking ports (any) 
+    - Power generation (supports Near Future Electrical).
+
+Q) Why can I not complete the "Launch a Station Contract"
+A) The contract needs the following: 
+  - Space for 4 Kerbals (filled or not, but it would be better for you if not), 
+  - a docking port, 
+  - a science lab, 
+  - a power source
+  - The Vessel type must be Station. This is the one people usually struggle with. Right click your command part and click "Rename Vessel", then select Station. This is VERY important to make other missions generate. Keep your vessel as a station, even if the game tries to change it.
+  
+Q) I've done all that, but I still can't make it work.
+A) Then feel free to post on the thread/raise a github issue. PLEASE ensure you mention you have read the FAQ, or I am likely to ignore you.
